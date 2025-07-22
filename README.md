@@ -3,9 +3,9 @@ technical writing
 
 
 
-**Syntax:**
+STRUCTURE
 
-      ```
+      
       # Title
       ## Subtitle
       ```
